@@ -1,0 +1,45 @@
+Index: .idea/jarRepositories.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- .idea/jarRepositories.xml	(date 1601496659615)
++++ .idea/jarRepositories.xml	(date 1601496659615)
+@@ -0,0 +1,20 @@
++<?xml version="1.0" encoding="UTF-8"?>
++<project version="4">
++  <component name="RemoteRepositoriesConfiguration">
++    <remote-repository>
++      <option name="id" value="central" />
++      <option name="name" value="Central Repository" />
++      <option name="url" value="https://repo.maven.apache.org/maven2" />
++    </remote-repository>
++    <remote-repository>
++      <option name="id" value="central" />
++      <option name="name" value="Maven Central repository" />
++      <option name="url" value="https://repo1.maven.org/maven2" />
++    </remote-repository>
++    <remote-repository>
++      <option name="id" value="jboss.community" />
++      <option name="name" value="JBoss Community repository" />
++      <option name="url" value="https://repository.jboss.org/nexus/content/repositories/public/" />
++    </remote-repository>
++  </component>
++</project>
+\ No newline at end of file
+Index: configuration.properties
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+>browser=chrome\r\nglb_url=https://www.glbtrader.com/\r\nglb_signup_url=https://www.glbtrader.com/register.html\r\nglb_signin_url=https://www.glbtrader.com/login.html
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>windows-1254
+===================================================================
+--- configuration.properties	(revision 1276cea8f14bde5a6e3aeefe2ccc29ee6667052a)
++++ configuration.properties	(date 1601497856977)
+@@ -1,4 +1,4 @@
+ browser=chrome
+ glb_url=https://www.glbtrader.com/
+ glb_signup_url=https://www.glbtrader.com/register.html
+-glb_signin_url=https://www.glbtrader.com/login.html
+\ No newline at end of file
++glb_signin_url=https://www.glbtrader.com/login.html
